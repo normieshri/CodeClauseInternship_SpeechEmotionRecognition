@@ -14,6 +14,9 @@ The dataset preprocessing involved: (Kaggle: https://www.kaggle.com/datasets/ejl
     Exploring the TESS dataset
     Cleaning and organizing audio files
     Feature extraction from audio signals (such as MFCC, spectral features, etc.)
+NOTE : AS THE FILE IS TOO LARGE I'VE PROVIDED THE KAGGLE LINK TO DOWNLOAD: https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess/
+
+
 
 2. Model Development:
 
@@ -45,9 +48,8 @@ Technologies and Dependencies Used
 
 Repository Contains:
 
-    dataset: Contains the TESS dataset and processed data
-    notebooks: Jupyter notebooks used for data preprocessing, model development, and analysis
-    
+   .ipynb notebook file for Code
+   .readmefile for description
 
 Model Accuracy
 
